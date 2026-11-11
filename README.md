@@ -25,7 +25,7 @@ The benchmark includes diverse indoor environments and single-person and multi-p
 
 Representative target-seeking and following episodes are shown in the demonstration video:
 
-[▶ Watch the UESF-Bench demo](assets/demo.mp4)
+[▶ Watch the UESF-Bench demo](https://youtube.com/shorts/qbzwDSGiPx8?feature=share)
 
 
 ## 📝 TODO List
