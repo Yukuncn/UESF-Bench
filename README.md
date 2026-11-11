@@ -19,7 +19,7 @@ The benchmark includes diverse indoor environments and single-person and multi-p
 
 ![UESF-Bench overview](assets/overview.png)
 
-*Overview of UESF-Bench. Replace `assets/overview.png` with the overview figure from the paper.*
+*Overview of UESF-Bench.*
 
 ## 🎬 Demo Video
 
@@ -27,7 +27,6 @@ Representative target-seeking and following episodes are shown in the demonstrat
 
 [▶ Watch the UESF-Bench demo](assets/demo.mp4)
 
-*To enable this link, upload the demo video to `assets/demo.mp4`. Please ensure that the footage and any third-party assets may be publicly shared under their respective terms.*
 
 ## 📝 TODO List
 
