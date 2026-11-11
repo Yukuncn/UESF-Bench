@@ -15,11 +15,13 @@ Unlike conventional person-following settings that assume the target is already 
 
 The benchmark includes diverse indoor environments and single-person and multi-person scenarios, supporting the evaluation of target identification, navigation, and following under distraction.
 
-## 🌟 Overview
+## 🌟 Dataset Overview
 
 ![UESF-Bench overview](assets/datasetoverview.png)
 
-*Overview of UESF-Bench.*
+## 🌟 Method Overview
+
+![SeekFollow-VLA ](overview.png)
 
 ## 🎬 Demo Video
 
