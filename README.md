@@ -42,7 +42,21 @@ We plan to progressively release the UESF-Bench dataset and code following the a
 
 ## 📖 Citation
 
-Citation information will be added when the paper is publicly available.
+If you find UESF-Bench useful in your research, please consider citing our paper:
+
+**Paper:** [UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following](https://arxiv.org/abs/2607.13621)
+
+```bibtex
+@misc{yu2026uesfbench,
+  title={UESF-Bench: Benchmarking and Probing for Unified Embodied Seeking and Following},
+  author={Kun Yu and Jianhua Yang and Yixiang Chen and Changwei Wang and Hongyuan Yu and Yan Huang and Fushuo Huo and Ya Jing and Zhumin Chen and Keji He},
+  year={2026},
+  eprint={2607.13621},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2607.13621}
+}
+```
 
 ## 📄 License
 
