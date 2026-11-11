@@ -17,7 +17,7 @@ The benchmark includes diverse indoor environments and single-person and multi-p
 
 ## 🌟 Overview
 
-![UESF-Bench overview](assets/overview.png)
+![UESF-Bench overview](assets/datasetoverview.png)
 
 *Overview of UESF-Bench.*
 
