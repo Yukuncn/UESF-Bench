@@ -21,7 +21,7 @@ The benchmark includes diverse indoor environments and single-person and multi-p
 
 ## 🌟 Method Overview
 
-![SeekFollow-VLA ](overview.png)
+![SeekFollow-VLA ](assets/overview.png)
 
 ## 🎬 Demo Video
 
